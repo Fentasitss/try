@@ -1,0 +1,66 @@
+ body{
+ 	background-color: skyblue;
+ }
+ p{
+ 	font-size: 50px;
+ }
+.p1{
+	color: lightskyblue;
+background-color: deepskyblue;
+}
+.p2{
+	color: lightblue;
+	background-color: blue;
+ font-family: sans-serif;
+}
+.p3{
+font-family: cursive;
+ text-decoration: underline;
+ text-underline-position: under;
+ text-decoration-color: darkblue;
+ text-decoration-style: wavy;
+}
+.p4{
+	font-family: monospace;
+	font-style: italic;
+	text-decoration: line-through;
+	text-underline-position: under;
+	text-decoration-color: blue;
+	text-decoration-style: dashed;
+}
+.p5{
+  font-family: fantasy;
+}
+.p6{ 
+	 font-family: Georgia, Times, "Times New Roman", serif;
+	 text-shadow: 2px -2px blueviolet;
+ }
+.p7{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.p8{
+font-family: "Rubik Beastly", system-ui;
+text-shadow: 0 0 15px darkkhaki;
+color: black;
+}
+.p9{
+font-family: "Kablammo", system-ui;
+}
+.p10{
+font-family: "Great Vibes", cursive; font-weight: bold;
+}
+.p11{
+font-family: "Pacifico", cursive;
+}
+.s1{
+	font-size: 2em;
+	color: darkseagreen;
+	text-shadow: 0 0 30px black;
+	font-family: "Rubik Beastly", system-ui;
+}
+.s2{
+	font-size: 3em;
+	color: darkkhaki;
+	text-shadow: 15px 0 30px burlywood;
+	font-family: monospace;
+}

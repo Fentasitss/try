@@ -1,0 +1,59 @@
+body{
+	background-color: pink;
+	background-image: url(https://i.gifer.com/origin/3b/3bbf0dc0e49287b8de612b409997137e_w200.gif);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}   
+p{
+	font-size: 1in;
+	color: orchid;
+	background-image: url(https://s.tmimgcdn.com/scr/1200x627/328900/fonove-zobrazenna-blakitno-rozevih-kvitiv-14400x8100-pikseliv_328952-original.png);
+	background-size: cover;
+}
+#first{
+width: 300px ;
+height: 300px;
+float: left;
+background-image: url(https://i0.wp.com/madeas.ru/wp-content/uploads/2018/08/bg-art_26.jpg?fit=1280%2C720&ssl=1);
+background-size: cover;
+border: 30px ridge #274575;
+}
+#second{
+width: 300px ;
+height: 300px;
+float: left;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbLPH9H5zdepNauIRb4Gof3KWaruKD5iiSQ&s);
+background-size: cover;
+margin: 50px;
+border: 30px solid;
+border-width: 30px;
+border-image: linear-gradient(darkblue, skyblue) 30;
+}
+#third{
+width: 200px;
+height: 200px;
+float: left;
+border: 20px ridge;
+border-image: linear-gradient(black, red, indianred) 38; 
+background-image: url(https://media.tenor.com/2100NQHbjV8AAAAj/shadow.gif);
+background-repeat: no-repeat;
+background-position: 50% 50%;
+margin-bottom: 20px;
+
+}
+#forth{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 10px -10px 50px purple;
+}
+#Kharkiv{
+	width: 70%;
+margin: auto;
+display: block;
+border-radius: 50%;
+box-shadow: 0 0 50px deepskyblue;
+}

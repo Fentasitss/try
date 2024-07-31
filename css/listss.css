@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Ga+Maamli&display=swap');
+body{
+	background-color: skyblue;
+}
+p{
+	font-size: 50px;
+}
+.p1{
+	color: darkblue;
+	background-color: lightblue;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+text-shadow: 0 2px 15px blueviolet;
+}
+ul,ol{
+	font-size: 24px;
+	color: darkred;
+}
+.li li{
+	padding-left: 10px;
+}
+.l2 li::marker{
+	color: darkred;
+}
+ol{
+	margin-left: 50px;
+}
